@@ -1,0 +1,11 @@
+<svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Star 2" d="M16.1045 0.334354C16.1045 0.334354 17.4175 8.51677 21.0314 11.7708C24.6454 15.0248 32.9202 15.4753 32.9202 15.4753C32.9202 15.4753 24.7378 16.788 21.4839 20.4018C18.23 24.0157 17.7797 32.2905 17.7797 32.2905C17.7797 32.2905 16.4668 24.1081 12.8528 20.854C9.23889 17.6 0.964061 17.1496 0.964061 17.1496C0.964061 17.1496 9.14646 15.8368 12.4004 12.223C15.6543 8.60915 16.1045 0.334354 16.1045 0.334354Z" fill="url(#paint0_linear_228_511)"/>
+<defs>
+<linearGradient id="paint0_linear_228_511" x1="0.961468" y1="17.1001" x2="32.9176" y2="15.4249" gradientUnits="userSpaceOnUse">
+<stop offset="0.140625" stop-color="#B16CEA"/>
+<stop offset="0.447917" stop-color="#FF5E69"/>
+<stop offset="0.71875" stop-color="#FF8A56"/>
+<stop offset="1" stop-color="#FFA84B"/>
+</linearGradient>
+</defs>
+</svg>
